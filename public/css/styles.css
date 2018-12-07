@@ -1,0 +1,22 @@
+.white {
+    color: #fff
+}
+
+#top_container {
+    margin-top: 75px;
+}
+
+.some-bordered-box {
+    border: 2px solid #e9e9e9;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.some-bordered-box {
+    width: 100%;
+}
+
+.some-button-bar {
+    padding-right: 0px;
+    padding-bottom: 15px;
+}
