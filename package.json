@@ -1,0 +1,21 @@
+{
+  "name": "salesforce-outbound-message-echo",
+  "version": "1.0.0",
+  "description": "Simple app to simply echo out Salesforce outbound messages to the console and to an app using a web socket",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "salesforce",
+    "outbound_message"
+  ],
+  "author": "Mikkel Flindt Heisterberg (mheisterberg@salesforce.com)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "body-parser-xml-json": "^1.0.0",
+    "express": "^4.16.4"
+  }
+}
